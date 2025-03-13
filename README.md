@@ -1,1 +1,2 @@
-# PLP-
+# PLP Learning Journey
+<p>Welcome to my personal learning repository where I will be documenting and organizing all my work from the PLP (Professional Learning Program). This includes projects, exercises, and concepts I learn related to Python, databases, JavaScript, HTML, and other web development technologies. The goal is to keep track of my progress and have an easy reference for future work.</p>
